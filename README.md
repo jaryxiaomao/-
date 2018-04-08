@@ -10,7 +10,7 @@
 
 
 ## 模拟网页登陆
->>有的网页你要爬取相关信息的时候必须要登陆，模拟登陆界面的表单的填值点击操作（selenium PhantomJS模拟浏览器登录，spalsh等），通过HTTP的POST请求登录，直接加载cookies登录<br>
+>>有的网页你要爬取相关信息的时候必须要登陆<br>模拟登陆界面的表单的填值点击操作（selenium PhantomJS模拟浏览器登录，spalsh等<br>通过HTTP的POST请求登录<br>直接加载cookies登录<br>
 前面两种登陆的方式很容易碰到验证码问题，解决这种方法是利用某些第三方的打码平台或者图像识别的三方算法库（验证码不是图像模式就不好使了），参考链接[模拟登陆](https://blog.csdn.net/u014134180/article/details/55508229)<br>
 
 ## scrapy框架介绍
